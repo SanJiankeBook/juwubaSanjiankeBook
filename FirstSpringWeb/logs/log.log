@@ -1,0 +1,120 @@
+2017-01-03 18:59:46  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13e3940: startup date [Tue Jan 03 18:59:46 CST 2017]; root of context hierarchy
+2017-01-03 18:59:46  [ main:471 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 18:59:48  [ main:2680 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 19:50:36  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@302df5: startup date [Tue Jan 03 19:50:36 CST 2017]; root of context hierarchy
+2017-01-03 19:50:36  [ main:150 ] - [ INFO ]  Loading XML bean definitions from class path resource [beans.xml]
+2017-01-03 19:50:37  [ main:862 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 19:50:37  [ main:876 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'dataSource' defined in class path resource [beans.xml]: Could not resolve placeholder 'hdh.driver' in string value "${hdh.driver}"; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'hdh.driver' in string value "${hdh.driver}"
+2017-01-03 19:50:54  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@302df5: startup date [Tue Jan 03 19:50:54 CST 2017]; root of context hierarchy
+2017-01-03 19:50:54  [ main:105 ] - [ INFO ]  Loading XML bean definitions from class path resource [beans.xml]
+2017-01-03 19:50:55  [ main:770 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 19:50:55  [ main:785 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'dataSource' defined in class path resource [beans.xml]: Could not resolve placeholder 'hdh.driver' in string value "${hdh.driver}"; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'hdh.driver' in string value "${hdh.driver}"
+2017-01-03 19:51:10  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11931f8: startup date [Tue Jan 03 19:51:10 CST 2017]; root of context hierarchy
+2017-01-03 19:51:10  [ main:112 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 19:51:11  [ main:879 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 19:52:33  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@914a0a: startup date [Tue Jan 03 19:52:33 CST 2017]; root of context hierarchy
+2017-01-03 19:52:33  [ main:105 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 19:52:33  [ main:817 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 19:54:25  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@914a0a: startup date [Tue Jan 03 19:54:25 CST 2017]; root of context hierarchy
+2017-01-03 19:54:25  [ main:119 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 19:54:26  [ main:845 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:01:22  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11931f8: startup date [Tue Jan 03 20:01:22 CST 2017]; root of context hierarchy
+2017-01-03 20:01:22  [ main:112 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 20:01:23  [ main:942 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:02:17  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11931f8: startup date [Tue Jan 03 20:02:17 CST 2017]; root of context hierarchy
+2017-01-03 20:02:17  [ main:115 ] - [ INFO ]  Loading XML bean definitions from class path resource [beans.xml]
+2017-01-03 20:02:18  [ main:764 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:02:18  [ main:777 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'dataSource' defined in class path resource [beans.xml]: Could not resolve placeholder 'hdh.driver' in string value "${hdh.driver}"; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'hdh.driver' in string value "${hdh.driver}"
+2017-01-03 20:02:32  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11931f8: startup date [Tue Jan 03 20:02:32 CST 2017]; root of context hierarchy
+2017-01-03 20:02:32  [ main:106 ] - [ INFO ]  Loading XML bean definitions from class path resource [beans.xml]
+2017-01-03 20:02:32  [ main:763 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:02:32  [ main:777 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'dataSource' defined in class path resource [beans.xml]: Could not resolve placeholder 'hdh.driver' in string value "${hdh.driver}"; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'hdh.driver' in string value "${hdh.driver}"
+2017-01-03 20:08:18  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11931f8: startup date [Tue Jan 03 20:08:18 CST 2017]; root of context hierarchy
+2017-01-03 20:08:18  [ main:116 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 20:08:18  [ main:794 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:44:04  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11931f8: startup date [Tue Jan 03 20:44:04 CST 2017]; root of context hierarchy
+2017-01-03 20:44:04  [ main:117 ] - [ INFO ]  Loading XML bean definitions from class path resource [beans.xml]
+2017-01-03 20:44:05  [ main:783 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:44:05  [ main:797 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'dataSource' defined in class path resource [beans.xml]: Could not resolve placeholder 'hdh.driver' in string value "${hdh.driver}"; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'hdh.driver' in string value "${hdh.driver}"
+2017-01-03 20:44:34  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@302df5: startup date [Tue Jan 03 20:44:34 CST 2017]; root of context hierarchy
+2017-01-03 20:44:34  [ main:106 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 20:44:35  [ main:778 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:45:58  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@302df5: startup date [Tue Jan 03 20:45:58 CST 2017]; root of context hierarchy
+2017-01-03 20:45:58  [ main:106 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 20:45:58  [ main:795 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:46:46  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11931f8: startup date [Tue Jan 03 20:46:46 CST 2017]; root of context hierarchy
+2017-01-03 20:46:46  [ main:107 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 20:46:47  [ main:787 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:48:03  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11931f8: startup date [Tue Jan 03 20:48:03 CST 2017]; root of context hierarchy
+2017-01-03 20:48:03  [ main:106 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 20:48:04  [ main:976 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:48:05  [ main:2782 ] - [ DEBUG ]  Cache Hit Ratio [com.yc.mapper.PersonMapper]: 0.0
+2017-01-03 20:48:06  [ main:3580 ] - [ DEBUG ]  ==>  Preparing: select * from person 
+2017-01-03 20:48:06  [ main:3724 ] - [ DEBUG ]  ==> Parameters: 
+2017-01-03 20:48:06  [ main:3784 ] - [ DEBUG ]  <==      Total: 12
+2017-01-03 20:48:44  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@302df5: startup date [Tue Jan 03 20:48:44 CST 2017]; root of context hierarchy
+2017-01-03 20:48:44  [ main:115 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 20:48:45  [ main:871 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:48:46  [ main:1768 ] - [ DEBUG ]  Cache Hit Ratio [com.yc.mapper.PersonMapper]: 0.0
+2017-01-03 20:48:46  [ main:2460 ] - [ DEBUG ]  ==>  Preparing: select * from person 
+2017-01-03 20:48:46  [ main:2528 ] - [ DEBUG ]  ==> Parameters: 
+2017-01-03 20:48:46  [ main:2574 ] - [ DEBUG ]  <==      Total: 12
+2017-01-03 20:48:46  [ main:2625 ] - [ DEBUG ]  Cache Hit Ratio [com.yc.mapper.PersonMapper]: 0.5
+2017-01-03 20:49:36  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11931f8: startup date [Tue Jan 03 20:49:36 CST 2017]; root of context hierarchy
+2017-01-03 20:49:36  [ main:115 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 20:49:37  [ main:855 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 20:49:38  [ main:1735 ] - [ DEBUG ]  Cache Hit Ratio [com.yc.mapper.PersonMapper]: 0.0
+2017-01-03 20:49:38  [ main:2434 ] - [ DEBUG ]  ==>  Preparing: select * from person 
+2017-01-03 20:49:38  [ main:2505 ] - [ DEBUG ]  ==> Parameters: 
+2017-01-03 20:49:39  [ main:2550 ] - [ DEBUG ]  <==      Total: 12
+2017-01-03 20:49:39  [ main:2578 ] - [ DEBUG ]  Cache Hit Ratio [com.yc.mapper.PersonMapper]: 0.5
+2017-01-03 21:46:57  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@171b246: startup date [Tue Jan 03 21:46:57 CST 2017]; root of context hierarchy
+2017-01-03 21:46:57  [ main:120 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 21:46:58  [ main:973 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 21:46:59  [ main:1876 ] - [ DEBUG ]  Cache Hit Ratio [com.yc.mapper.PersonMapper]: 0.0
+2017-01-03 21:47:00  [ main:2621 ] - [ DEBUG ]  ==>  Preparing: select count(*) from person 
+2017-01-03 21:47:00  [ main:2690 ] - [ DEBUG ]  ==> Parameters: 
+2017-01-03 21:47:00  [ main:2784 ] - [ DEBUG ]  <==      Total: 1
+2017-01-03 22:05:10  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6c137c: startup date [Tue Jan 03 22:05:10 CST 2017]; root of context hierarchy
+2017-01-03 22:05:10  [ main:110 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 22:05:11  [ main:927 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 22:05:12  [ main:1826 ] - [ DEBUG ]  Cache Hit Ratio [com.yc.mapper.PersonMapper]: 0.0
+2017-01-03 22:05:12  [ main:2526 ] - [ DEBUG ]  ==>  Preparing: select * from person limit ?,? 
+2017-01-03 22:05:12  [ main:2593 ] - [ DEBUG ]  ==> Parameters: 0(Integer), 9(Integer)
+2017-01-03 22:05:12  [ main:2646 ] - [ DEBUG ]  <==      Total: 9
+2017-01-03 22:36:53  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@15a3a92: startup date [Tue Jan 03 22:36:53 CST 2017]; root of context hierarchy
+2017-01-03 22:36:53  [ main:114 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 22:36:54  [ main:985 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 22:36:56  [ main:2594 ] - [ DEBUG ]  ==>  Preparing: delete from person where pid=? 
+2017-01-03 22:36:56  [ main:2675 ] - [ DEBUG ]  ==> Parameters: 2(Integer)
+2017-01-03 22:36:56  [ main:2766 ] - [ INFO ]  Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2017-01-03 22:36:56  [ main:2851 ] - [ INFO ]  SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2017-01-03 22:37:45  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@15a3a92: startup date [Tue Jan 03 22:37:45 CST 2017]; root of context hierarchy
+2017-01-03 22:37:45  [ main:118 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 22:37:46  [ main:946 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 22:37:48  [ main:2593 ] - [ DEBUG ]  ==>  Preparing: delete from person where typeid=? 
+2017-01-03 22:37:48  [ main:2671 ] - [ DEBUG ]  ==> Parameters: 2(Integer)
+2017-01-03 22:37:48  [ main:2770 ] - [ DEBUG ]  <==    Updates: 1
+2017-01-03 22:37:48  [ main:2773 ] - [ DEBUG ]  ==>  Preparing: delete from person where typeid=? 
+2017-01-03 22:37:48  [ main:2774 ] - [ DEBUG ]  ==> Parameters: 1(Integer)
+2017-01-03 22:37:48  [ main:2829 ] - [ DEBUG ]  <==    Updates: 1
+2017-01-03 22:50:01  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@128340: startup date [Tue Jan 03 22:50:01 CST 2017]; root of context hierarchy
+2017-01-03 22:50:01  [ main:116 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 22:50:02  [ main:1042 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 22:51:08  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@128340: startup date [Tue Jan 03 22:51:08 CST 2017]; root of context hierarchy
+2017-01-03 22:51:09  [ main:113 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 22:51:09  [ main:862 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 22:53:41  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@128340: startup date [Tue Jan 03 22:53:41 CST 2017]; root of context hierarchy
+2017-01-03 22:53:41  [ main:108 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 22:53:42  [ main:938 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 22:53:43  [ main:1745 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'personBizImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'basicDao' is defined
+2017-01-03 22:54:26  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@128340: startup date [Tue Jan 03 22:54:26 CST 2017]; root of context hierarchy
+2017-01-03 22:54:26  [ main:110 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 22:54:27  [ main:910 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 22:55:09  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@128340: startup date [Tue Jan 03 22:55:09 CST 2017]; root of context hierarchy
+2017-01-03 22:55:09  [ main:106 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-03 22:55:10  [ main:852 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-03 22:55:11  [ main:1763 ] - [ DEBUG ]  Cache Hit Ratio [com.yc.mapper.PersonMapper]: 0.0
+2017-01-03 22:55:12  [ main:2458 ] - [ DEBUG ]  ==>  Preparing: select * from person 
+2017-01-03 22:55:12  [ main:2536 ] - [ DEBUG ]  ==> Parameters: 
+2017-01-03 22:55:12  [ main:2579 ] - [ DEBUG ]  <==      Total: 10

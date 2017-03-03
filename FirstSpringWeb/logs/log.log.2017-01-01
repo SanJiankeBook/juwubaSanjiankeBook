@@ -1,0 +1,31 @@
+2017-01-01 09:35:53  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@18bf6bf: startup date [Sun Jan 01 09:35:53 CST 2017]; root of context hierarchy
+2017-01-01 09:35:53  [ main:282 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-01 09:35:54  [ main:1555 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-01 09:50:03  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1eb139e: startup date [Sun Jan 01 09:50:03 CST 2017]; root of context hierarchy
+2017-01-01 09:50:03  [ main:113 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-01 09:50:03  [ main:867 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-01 09:50:41  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@552379: startup date [Sun Jan 01 09:50:41 CST 2017]; root of context hierarchy
+2017-01-01 09:50:41  [ main:133 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-01 09:50:42  [ main:730 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-01 09:53:00  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1eb139e: startup date [Sun Jan 01 09:53:00 CST 2017]; root of context hierarchy
+2017-01-01 09:53:00  [ main:109 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-01 09:53:01  [ main:698 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-01 09:53:22  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@552379: startup date [Sun Jan 01 09:53:22 CST 2017]; root of context hierarchy
+2017-01-01 09:53:22  [ main:109 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-01 09:53:23  [ main:682 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-01 10:07:48  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@552379: startup date [Sun Jan 01 10:07:48 CST 2017]; root of context hierarchy
+2017-01-01 10:07:48  [ main:282 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-01 10:07:50  [ main:1755 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-01 10:13:10  [ main:1 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@552379: startup date [Sun Jan 01 10:13:10 CST 2017]; root of context hierarchy
+2017-01-01 10:13:10  [ main:113 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-01 10:13:11  [ main:708 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-01 10:14:20  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1eb139e: startup date [Sun Jan 01 10:14:20 CST 2017]; root of context hierarchy
+2017-01-01 10:14:20  [ main:111 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-01 10:14:21  [ main:736 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-01 10:22:34  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1eb139e: startup date [Sun Jan 01 10:22:34 CST 2017]; root of context hierarchy
+2017-01-01 10:22:34  [ main:117 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-01 10:22:35  [ main:711 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2017-01-01 10:22:35  [ main:722 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'dataSource' defined in class path resource [bean.xml]: Could not resolve placeholder 'jdbc.root' in string value "${jdbc.root}"; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'jdbc.root' in string value "${jdbc.root}"
+2017-01-01 10:23:24  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1eb139e: startup date [Sun Jan 01 10:23:24 CST 2017]; root of context hierarchy
+2017-01-01 10:23:24  [ main:104 ] - [ INFO ]  Loading XML bean definitions from class path resource [bean.xml]
+2017-01-01 10:23:25  [ main:711 ] - [ INFO ]  Loading properties file from class path resource [db.properties]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+	<context:component-scan base-package="com.hdh.dao,com.hdh.dao.impl" />
+
+	<!-- 启用aspectj代理机制 -->
+	<aop:aspectj-autoproxy />
+
+	<!-- 数据库连接文件 db.properties spring容器启动时，会以流的方式读取这个文件 -->
+	<context:property-placeholder location="db.properties" />
+	<!-- 使用dbcp连接池配置 -->
+	<bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource"
+		destroy-method="close">
+		<!-- value格式必须为 xxx.xxx -->
+		<property name="driverClassName" value="${hdh.driver}" />
+		<property name="url" value="${hdh.url}" />
+		<property name="username" value="${hdh.username}" />
+		<property name="password" value="${hdh.password}" />
+	</bean>
+ 	<!-- 取得sqlSessionFactory     将DataSource与myBatis配置文件一起用于生成一个SqlSessionFactory-->
+	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+		<property name="dataSource" ref="dataSource"></property>
+		<!-- 配置mybatis中的configuration中的setting设置 -->
+		<!-- 日志 -->
+		<property name="configurationProperties">
+			<props>
+				<prop key="logImpl">LOG4J</prop>
+			</props>
+		</property>
+		<!-- 别名的包的设置 -->
+		<property name="typeAliasesPackage" value="com.hdh.bean"></property>
+		<!-- 配置mapper映射文件 -->
+		<property name="mapperLocations" value="classpath*:/com/hdh/mapper/*.xml"></property>
+	</bean>
+   
+
+
+
+
+
+
+
+
+</beans>
